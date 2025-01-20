@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Adapter
+/Adapter/bin/Debug/net8.0
+/Adapter/obj
+/Authorization/bin/Debug/net8.0
+/Authorization/obj
+/BusinessLogic/bin/Debug/net8.0
+/BusinessLogic/obj
+/DataAccess/bin/Debug/net8.0
+/DataAccess/obj
